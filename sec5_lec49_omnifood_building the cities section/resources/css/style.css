@@ -173,7 +173,7 @@ h2:after {
     color: #e67e22;
     font-size: 120%;
     margin-right: 10px;
-
+    
     /* secrets to align text and icons */
     line-height: 120%;
     vertical-align: middle;
@@ -181,7 +181,7 @@ h2:after {
 }
 
 /* LINKS   */
-a:link,
+a:link, 
 a:visited {
     color: #e67e22;
     text-decoration: none;
@@ -189,7 +189,7 @@ a:visited {
     border-bottom: 1px solid #e67e22;
     transition: border-bottom 0.2s color 0.2s;
 }
-a:hover,
+a:hover, 
 a:active {
     color: #555;
     border-bottom: 1px solid transparent;
@@ -344,7 +344,7 @@ a:active {
 
 }
 
-.btn-app:link,
+.btn-app:link, 
 .btn-app:visited {
     border: 0;
 }
@@ -372,6 +372,6 @@ a:active {
 
 .city-feature {
     margin-bottom: 5px;
-
+    
 }
 
