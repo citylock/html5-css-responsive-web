@@ -269,7 +269,7 @@ h2:after {
 /* -----------------------------------  */
 
 .steps-box {
-
+    
 }
 
 .section-steps {
@@ -284,7 +284,7 @@ h2:after {
 .steps-box:last-child {
     padding-left: 3%;
     margin-top: 70px;
-
+    
 }
 
 .app-screen {
@@ -307,11 +307,11 @@ h2:after {
     height: 55px;
     width: 55px;
     text-align: center;
-    padding: 5px;
+    padding: 5px;   
     float: left;
     font-size: 150%;
     margin-right: 25px;
-
+    
 }
 
 
