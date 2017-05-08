@@ -199,7 +199,7 @@ a:active {
 
 /* Buttons   */
 .btn:link,
-.btn:visited,
+.btn:visited, 
 input[type=submit] {
     display: inline-block;
     padding: 10px 30px;
@@ -211,7 +211,7 @@ input[type=submit] {
 }
 
 .btn-full:link,
-.btn-full:visited,
+.btn-full:visited, 
 input[type=submit]{
     background-color: #e67e22;
     border: 1px solid #e67e22;
@@ -227,8 +227,8 @@ input[type=submit]{
 }
 
 .btn:hover,
-.btn:active,
-input[type=submit]:hover,
+.btn:active, 
+input[type=submit]:hover, 
 input[type=submit]:active {
     background-color: #b05d14;
 }
@@ -497,7 +497,7 @@ cite img {
 
 input[type=text],
 input[type=email],
-select,
+select, 
 textarea {
     width: 100%;
     padding: 7px;
