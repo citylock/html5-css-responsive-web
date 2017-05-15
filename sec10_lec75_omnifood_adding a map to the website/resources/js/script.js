@@ -103,12 +103,12 @@ $(document).ready(function() {
             icon.removeClass('ion-close-round');
         }
     });
-
+    
     /* Maps */
     var map = new GMaps({
         div: '.map',
         lat: -33.8460511,
-        lng: 151.15,
+        lng: 151.15, 
         zoom: 12
     });
 
